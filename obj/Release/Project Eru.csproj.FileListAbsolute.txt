@@ -1,0 +1,13 @@
+F:\C#\Project Eru\bin\Release\Project Eru.exe.config
+F:\C#\Project Eru\bin\Release\Project Eru.exe
+F:\C#\Project Eru\bin\Release\Project Eru.pdb
+F:\C#\Project Eru\bin\Release\MaterialSkin.dll
+F:\C#\Project Eru\obj\Release\Project Eru.csproj.AssemblyReference.cache
+F:\C#\Project Eru\obj\Release\Project Eru.csproj.SuggestedBindingRedirects.cache
+F:\C#\Project Eru\obj\Release\Project_Eru.Eru.resources
+F:\C#\Project Eru\obj\Release\Project_Eru.Properties.Resources.resources
+F:\C#\Project Eru\obj\Release\Project Eru.csproj.GenerateResource.cache
+F:\C#\Project Eru\obj\Release\Project Eru.csproj.CoreCompileInputs.cache
+F:\C#\Project Eru\obj\Release\Project Eru.csproj.CopyComplete
+F:\C#\Project Eru\obj\Release\Project Eru.exe
+F:\C#\Project Eru\obj\Release\Project Eru.pdb
